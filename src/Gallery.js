@@ -5,6 +5,7 @@ export default function Gallery() {
 
   // You can add more info here later
   const images = [
+    { url: "/C:\Users\sakth\OneDrive\Desktop\SS MARTIAL ARTS\my-app\public\images\WhatsApp Image 2026-06-04 at 11.46.58 AM.jpeg", title: "MARTIAL ARTSS" },
     { url: "/images/WhatsApp Image 2026-06-13 at 8.15.07 PM.jpeg", title: "Class Training" },
     { url: "/images/WhatsApp Image 2026-06-13 at 8.16.44 PM.jpeg", title: "WISHES FROM CM OF PY" },
     { url: "/images/WhatsApp Image 2026-06-13 at 8.16.40 PM.jpeg", title: "Tournament Day" }
